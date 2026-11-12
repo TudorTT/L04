@@ -1,6 +1,6 @@
 
 ...
-name: find
+name: find 
 description: find bugs in code
 ...
 
@@ -34,6 +34,7 @@ Fix: < proposed fix>
 - There can be more bugs in a single function
 - There can be more bugs in the code 
 - There can be syntax errors
+- If there are no bugs , the output is empty
 
 # Example
 Input:
